@@ -2220,7 +2220,7 @@
                             title: ee
                         } = (0, eo.ZR)(), {
                             route: et
-                        } = (0, eu.useRouter)(), en = "/" !== et && ee ? "https://frvgs.com/api/og?title=".concat(ee) : "https://frvgs.com/og.jpeg";
+                        } = (0, eu.useRouter)(), en = "/" !== et && ee ? "https://frvgs.com/api/og?title=".concat(ee) : "https://i.ibb.co/7V5PTWL/blrploadingscreen.png";
                         return (0, es.jsxs)(es.Fragment, {
                             children: [(0, es.jsx)("meta", {
                                 name: "msapplication-TileColor",
@@ -2236,10 +2236,10 @@
                                 content: "en"
                             }), (0, es.jsx)("meta", {
                                 name: "description",
-                                content: "Blue Line RP"
+                                content: "FRVGS RP Server"
                             }), (0, es.jsx)("meta", {
                                 name: "og:description",
-                                content: "Blue Line RP"
+                                content: "FRVGS RP Server"
                             }), (0, es.jsx)("meta", {
                                 name: "twitter:card",
                                 content: "summary_large_image"
