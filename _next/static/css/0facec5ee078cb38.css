@@ -4170,6 +4170,18 @@ video {
     width: auto
 }
 
+.w-autoo {
+    width: 11%;
+    position: absolute;
+    transform: translateY(-300%);
+}
+
+.blrpcontainer{
+    text-align: center;
+    padding-top: 100px;
+    transform: translateX(-5.3%);
+}
+
 .w-full {
     width: 100%
 }
