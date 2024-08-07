@@ -750,9 +750,9 @@
                     filePath: "pages/index.mdx",
                     route: "/",
                     frontMatter: {
-                        title: "FRVGS RP Website"
+                        title: "Blue Line RP | Home"
                     },
-                    title: "FRVGS RP Website",
+                    title: "Blue Line RP | Home",
                     headings: U
                 },
                 pageNextRoute: "/"

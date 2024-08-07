@@ -2236,10 +2236,10 @@
                                 content: "en"
                             }), (0, es.jsx)("meta", {
                                 name: "description",
-                                content: "FRVGS RP Server"
+                                content: "Blue Line RP"
                             }), (0, es.jsx)("meta", {
                                 name: "og:description",
-                                content: "FRVGS RP Server"
+                                content: "Blue Line RP"
                             }), (0, es.jsx)("meta", {
                                 name: "twitter:card",
                                 content: "summary_large_image"
@@ -2461,7 +2461,7 @@
                 name: "index",
                 route: "/",
                 frontMatter: {
-                    title: "FRVGS RP Website"
+                    title: "Blue Line RP | Home"
                 }
             }, {
                 kind: "MdxPage",
